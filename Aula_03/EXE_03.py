@@ -1,16 +1,16 @@
-n1 = int(input())
+n1 = int(input("Digite um numero: "))
 
 if n1 == 1:
-    print("- 1 - Domingo")
+    print(f"- {n1} - Domingo")
 elif n1 == 2:
-    print("- 2 - Segunda")
+    print(f"- {n1} - Segunda")
 elif n1 == 3:
-    print("- 3 - Terça")
+    print(f"- {n1} - Terça")
 elif n1 == 4:
-    print("- 4 - Quarta")
+    print(f"- {n1} - Quarta")
 elif n1 == 5:
-    print("- 5 - Quinta")
+    print(f"- {n1} - Quinta")
 elif n1 == 6:
-    print("- 6 - Sexta")
+    print(f"- {n1} - Sexta")
 elif n1 == 7:
-    print("- 7 - Sabado")
+    print(f"- {n1} - Sabado")
